@@ -1,0 +1,22 @@
+#home span {
+  text-align: center;
+  text-align: justify;
+  text-shadow: 2px 2px green;
+  font-size: 78px;
+  margin: -6px;
+  padding: 0;
+}
+
+#home p {
+  text-align: center;
+  margin-top: 0px;
+}
+
+.cick {
+  cursor: pointer;
+}
+
+#home .mujib {
+  text-align: center;
+}
+
